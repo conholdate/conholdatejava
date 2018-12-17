@@ -486,6 +486,16 @@ ul.update-groupings li.grouping:hover {
 .api-gis-ico{
     background-position: -8px -839px ;
 }
+.gd-api-ico {
+    background: url(../img/icons-blue.png?v=7) 0 0 no-repeat;
+    width: 55px;
+    height: 45px;
+    border: 0 solid #fff;
+    outline: 0;
+    display: inline-block;
+    margin: 0 10px 0 0;
+    float: left;
+}
 .api-groupdocs-viewer-ico-new { background: url(../img/groupdocs-viewer.png) 0 0 no-repeat; background-position: -4px -4px; }
 
 .api-groupdocs-annotation-ico-new { background: url(../img/groupdocs-annotation.png) 0 0 no-repeat; background-position: -4px -4px; }

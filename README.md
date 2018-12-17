@@ -1,2 +1,2 @@
-# conholdatejava.github.io
-Pages for Conholdate Java repositories
+# conholdate.github.io
+Github pages for conholdate https://www.conholdate.com/

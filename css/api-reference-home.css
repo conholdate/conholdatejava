@@ -486,6 +486,12 @@ ul.update-groupings li.grouping:hover {
 .api-gis-ico{
     background-position: -8px -839px ;
 }
+.api-xps-ico {
+    background-position: -8px -943px;
+}
+.api-eps-ico {
+    background-position: -8px -891px;
+}
 .gd-api-ico {
     background: url(../img/icons-blue.png?v=7) 0 0 no-repeat;
     width: 55px;
